@@ -15,7 +15,7 @@ This project showcases my ability to:
 ---
 
 ### 🎯 View Dashboard on Tableau Public
-**🔗 [Open Dashboard on Tableau Public](https://public.tableau.com/views/SeattleAirbnbMarketAnalysis2016/SeattleAirbnbMarketAnalysis2016)**
+**🔗 [Open Dashboard on Tableau Public](https://public.tableau.com/app/profile/muhammad.thoriq4465/viz/SeattleAirbnb2016MarketInsights/Dashboard1)**
 
 *(Click the image below to view the full dashboard)*
 
@@ -26,7 +26,7 @@ This project showcases my ability to:
 ### 🔍 Key Business Insights
 - **Zipcode 98134** has the **highest average price** in Seattle at **$206.60**
 - More bedrooms strongly correlate with higher prices — from **$96.20** (1 bedroom) to **$584.80** (6 bedrooms)
-- **Weekly revenue** showed consistent growth throughout 2016, reaching a peak of **$2.41 million** per week
+- **Weekly revenue** showed consistent growth throughout 2016, reaching a peak of **$2.11 million** per week
 - Premium-priced listings are concentrated in central Seattle (visible on the geographic price map)
 
 ---
@@ -47,7 +47,7 @@ This project showcases my ability to:
 - [Download Workbook – Seattle Airbnb Market Analysis](workbooks/Seattle_Airbnb_Analysis.twbx)
 
 **📊 Raw Dataset (Excel – >25 MB)**
-- [📥 Download Full Dataset on Google Drive](https://drive.google.com/....) *(Anyone with the link)*
+- [📥 Download Full Dataset on Google Drive](https://docs.google.com/spreadsheets/d/1pvP7zjgxRsROOpVzO_EppQpEYVEpLRRi/edit?usp=sharing&ouid=113320475110676543316&rtpof=true&sd=true) *(Anyone with the link)*
 
 **📸 High-Resolution Screenshots**
 View all dashboard screenshots in the [`screenshots/`](screenshots/) folder.
@@ -78,7 +78,7 @@ View all dashboard screenshots in the [`screenshots/`](screenshots/) folder.
 
 ---
 
-**Made with ❤️ by [Your Full Name]**  
+**Made with ❤️ by Muhammad Thoriq Ramadhan**  
 Aspiring Data Analyst | Tableau Specialist | Business Intelligence Enthusiast
 
 ---
