@@ -49,8 +49,8 @@ This project showcases my ability to:
 **📊 Raw Dataset (Excel – >25 MB)**
 - [📥 Download Full Dataset on Google Drive](https://docs.google.com/spreadsheets/d/1pvP7zjgxRsROOpVzO_EppQpEYVEpLRRi/edit?usp=sharing&ouid=113320475110676543316&rtpof=true&sd=true) *(Anyone with the link)*
 
-**📸 High-Resolution Screenshots**
-View all dashboard screenshots in the [`screenshots/`](screenshots/) folder.
+**📸 Dashboard Preview**
+- [View High-Resolution Screenshot](screenshots/dashboard-main.png)
 
 ---
 
