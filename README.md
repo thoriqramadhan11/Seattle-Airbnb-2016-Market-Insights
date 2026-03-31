@@ -2,7 +2,7 @@
 
 **Tableau Dashboard** | Data Visualization | Market Intelligence
 
-![Dashboard Preview](screenshots/dashboard-main.png)
+![Dashboard Preview](dashboard-main.png)
 
 ### 📌 Project Overview
 Comprehensive visualization of **Airbnb listings in Seattle throughout 2016**. This Tableau dashboard highlights pricing patterns, geographic distribution, weekly revenue trends, and the impact of the number of bedrooms on listing prices.
