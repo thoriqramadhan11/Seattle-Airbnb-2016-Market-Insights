@@ -19,7 +19,7 @@ This project showcases my ability to:
 
 *(Click the image below to view the full dashboard)*
 
-[![Seattle Airbnb Market Analysis 2016](screenshots/dashboard-main.png)](https://public.tableau.com/views/SeattleAirbnbMarketAnalysis2016/SeattleAirbnbMarketAnalysis2016)
+[![Seattle Airbnb Market Analysis 2016](screenshots/dashboard-main.png)](https://public.tableau.com/app/profile/muhammad.thoriq4465/viz/SeattleAirbnb2016MarketInsights/Dashboard1)
 
 ---
 
