@@ -44,7 +44,7 @@ This project showcases my ability to:
 ### 📥 Download Files
 
 **📂 Tableau Workbook (.twbx)**
-- [Download Workbook – Seattle Airbnb Market Analysis](workbooks/Seattle Airbnb 2016 Market Insights.twbx)
+- [Download Workbook – Seattle Airbnb Market Analysis](Seattle Airbnb 2016 Market Insights.twbx)
 
 **📊 Raw Dataset (Excel – >25 MB)**
 - [📥 Download Full Dataset on Google Drive](https://docs.google.com/spreadsheets/d/1pvP7zjgxRsROOpVzO_EppQpEYVEpLRRi/edit?usp=sharing&ouid=113320475110676543316&rtpof=true&sd=true) *(Anyone with the link)*
